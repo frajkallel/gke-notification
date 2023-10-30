@@ -1,1 +1,1 @@
-Cloud function that will read gke notifications via pubsuc topic and send it to gchat
+Cloud function that will read gke notifications via pubsub topic and send it to gchat
